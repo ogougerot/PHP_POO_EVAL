@@ -1,0 +1,19 @@
+{
+  "name": "gougerotolivier/php_poo_eval",
+  "description": "eval_php_poo",
+  "type": "no",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "zerdess",
+      "email": "olivier.gougerot@outlook.fr"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {}
+}
